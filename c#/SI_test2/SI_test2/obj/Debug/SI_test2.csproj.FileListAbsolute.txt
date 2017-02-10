@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\bin\Debug\SI_test2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\bin\Debug\SI_test2.exe
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\bin\Debug\SI_test2.pdb
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\obj\Debug\SI_test2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\obj\Debug\SI_test2.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\obj\Debug\SI_test2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\obj\Debug\SI_test2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\obj\Debug\SI_test2.exe
+c:\users\user\documents\visual studio 2013\Projects\SI_test2\SI_test2\obj\Debug\SI_test2.pdb

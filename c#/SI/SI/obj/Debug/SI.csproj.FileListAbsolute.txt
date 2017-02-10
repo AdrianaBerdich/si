@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\bin\Debug\SI.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\bin\Debug\SI.exe
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\bin\Debug\SI.pdb
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.exe
+c:\users\user\documents\visual studio 2013\Projects\SI\SI\obj\Debug\SI.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI\SI\bin\Debug\ChilkatDotNet45.dll

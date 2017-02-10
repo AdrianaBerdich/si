@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\bin\Debug\siRsa.exe.config
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\bin\Debug\siRsa.exe
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\bin\Debug\siRsa.pdb
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\obj\Debug\siRsa.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\obj\Debug\siRsa.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\obj\Debug\siRsa.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\obj\Debug\siRsa.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\obj\Debug\siRsa.exe
+c:\users\user\documents\visual studio 2013\Projects\siRsa\siRsa\obj\Debug\siRsa.pdb
